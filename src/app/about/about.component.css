@@ -1,0 +1,23 @@
+/* #container {
+    display: inline-block;
+    position: relative;
+    width: 105%;
+    left: -20px;
+    padding: 20px;
+    margin: 0;
+} */
+
+img {
+    padding: 30px;
+    margin-left: 20px;
+    float: left;
+}
+
+.content {
+    padding-top: 30px;
+    float: right;
+    width: 75%;
+    font-family: 'Work Sans', sans-serif;
+    margin-right: 90px;
+}
+

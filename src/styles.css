@@ -1,0 +1,34 @@
+#container {
+    display: inline-block;
+    position: relative;
+    width: 99.22%;
+    left: -4px;
+    overflow-x: hidden;
+    padding: 11px;
+    margin: -1px;
+}
+
+#container:hover {
+    background-color: #ddddd5;
+}
+
+.clickable {
+    font-size: 1.2em;
+    font-weight: bold;  
+    user-select: none; 
+}
+
+.clickable:hover {
+    cursor: pointer;
+}
+
+.less {
+    display: none;
+}
+
+.expand-content {
+    /* display: none; */
+    padding-left: 50px;
+    padding-bottom: 50px;
+    width: 900px;
+}
